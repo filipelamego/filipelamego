@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Filipe da Silva Lamego, e sou estudante de Análise e Desenvolvimento de Sistemas na [Faculdade de Tecnologia (Fatec)](https://www.fatecsorocaba.edu.br/) de Sorocaba.
 
-## Sobre a Fatec de Sorocaba
+## Sobre a Fatec Sorocaba
 
 A [Fatec de Sorocaba](https://www.fatecsorocaba.edu.br/) é uma instituição renomada que oferece cursos superiores de tecnologia com foco no mercado de trabalho. Com uma equipe de professores qualificados e uma infraestrutura moderna, a Fatec proporciona um ambiente propício para o aprendizado e desenvolvimento de habilidades essenciais para a carreira na área de tecnologia da informação.
 
