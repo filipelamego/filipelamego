@@ -1,6 +1,6 @@
 <div style="display: inline_block"><h2 align="left">Sobre mim 👋 </h2>
 
-Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e Desenvolvimento de Sistemas na [FATEC-SO](https://www.fatecsorocaba.edu.br/) de Sorocaba.
+Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e Desenvolvimento de Sistemas na [FATEC-SO](https://www.fatecsorocaba.edu.br/)
 
 🔵 Tenho 36 anos e moro em Sorocaba-SP 
 
