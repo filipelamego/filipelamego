@@ -1,4 +1,4 @@
-# Sobre Mim
+<div style="display: inline_block"><h2 align="left">Sobre mim 👋 </h2>
 
 Olá! Meu nome é Filipe da Silva Lamego, e sou estudante de Análise e Desenvolvimento de Sistemas na [Faculdade de Tecnologia (Fatec)](https://www.fatecsorocaba.edu.br/) de Sorocaba.
 
@@ -10,11 +10,11 @@ Olá! Meu nome é Filipe da Silva Lamego, e sou estudante de Análise e Desenvol
 
 🔵 Trabalho como freelancer em linguagem PHP/Laravel
 
-## Curso de Análise e Desenvolvimento de Sistemas
+<h2 align="left">Curos de Análise e Desenvolvimento de Sistemas</h2>
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso oferece uma abordagem prática e teórica para o desenvolvimento de software, abrangendo desde a análise de requisitos até a implementação e manutenção de sistemas complexos.
 
-## Contato
+<div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
 
 <a href="https://wa.me/551598305283"><!-- WhatsApp contact -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
@@ -28,7 +28,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso of
     alt="">
 </a>
 
-## GitHub
+<h2 align="left">GitHub 📊</h2>
 
 <div>
   <a href="https://github.com/filipelamego">
@@ -36,7 +36,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso of
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelamego&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Skills
+<div><h2 align="left">Skills 🔥</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"
 alt="">
