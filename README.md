@@ -4,11 +4,9 @@ Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e D
 
 🔵 Tenho 36 anos e moro em Sorocaba-SP 
 
-🔵 Estou me graduando em Análise e Desenvolvimento de Sistemas, pela Fatec de Sorocaba.
-
 🔵 Estudo inglês como curso extra.
 
-🔵 Trabalho como freelancer em linguagem PHP/Laravel
+🔵 Trabalho como Freelancer em linguagem PHP/Laravel
 
 <h2 align="left">Curso de Análise e Desenvolvimento de Sistemas</h2>
 
