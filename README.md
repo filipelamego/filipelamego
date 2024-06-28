@@ -8,10 +8,6 @@ Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e D
 
 🔵 Trabalho como Freelancer em linguagem PHP/Laravel
 
-<h2 align="left">Curso de Análise e Desenvolvimento de Sistemas</h2>
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso oferece uma abordagem prática e teórica para o desenvolvimento de software, abrangendo desde a análise de requisitos até a implementação e manutenção de sistemas complexos.
-
 <h2 align="left">GitHub 📊</h2>
 
 <div>
