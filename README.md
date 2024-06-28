@@ -14,20 +14,6 @@ Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e D
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso oferece uma abordagem prática e teórica para o desenvolvimento de software, abrangendo desde a análise de requisitos até a implementação e manutenção de sistemas complexos.
 
-<div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
-
-<a href="https://wa.me/551598305283"><!-- WhatsApp contact -->
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
-</a>
-<a href="mailto:filipeslamego@gmail.com"><!-- E-mail contact -->
-    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Mail.ru&logoColor=white"
-    alt="">
-</a>
-<a href="https://www.linkedin.com/in/filipe-lamego-93257b32/"><!-- Linkedin contact -->
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
-    alt="">
-</a>
-
 <h2 align="left">GitHub 📊</h2>
 
 <div>
@@ -52,6 +38,20 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
 alt="">
+
+<div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
+
+<a href="https://wa.me/551598305283"><!-- WhatsApp contact -->
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
+</a>
+<a href="mailto:filipeslamego@gmail.com"><!-- E-mail contact -->
+    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Mail.ru&logoColor=white"
+    alt="">
+</a>
+<a href="https://www.linkedin.com/in/filipe-lamego-93257b32/"><!-- Linkedin contact -->
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
+    alt="">
+</a>
 
 ![Snake animation](https://github.com/filipelamego/filipelamego/blob/main/cobrinha.svg)
 
