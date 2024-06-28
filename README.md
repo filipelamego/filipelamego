@@ -1,6 +1,6 @@
 <div style="display: inline_block"><h2 align="left">Sobre mim 👋 </h2>
 
-Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e Desenvolvimento de Sistemas na [FATEC-SO)](https://www.fatecsorocaba.edu.br/) de Sorocaba.
+Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e Desenvolvimento de Sistemas na [FATEC-SO](https://www.fatecsorocaba.edu.br/) de Sorocaba.
 
 🔵 Tenho 36 anos e moro em Sorocaba-SP 
 
@@ -10,7 +10,7 @@ Olá! Meu nome é <b>Filipe da Silva Lamego</b>, e sou estudante de Análise e D
 
 🔵 Trabalho como freelancer em linguagem PHP/Laravel
 
-<h2 align="left">Curos de Análise e Desenvolvimento de Sistemas</h2>
+<h2 align="left">Curso de Análise e Desenvolvimento de Sistemas</h2>
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso oferece uma abordagem prática e teórica para o desenvolvimento de software, abrangendo desde a análise de requisitos até a implementação e manutenção de sistemas complexos.
 
