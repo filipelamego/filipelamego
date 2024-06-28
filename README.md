@@ -30,7 +30,11 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Este curso of
 
 ## GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelamego&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/filipelamego">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=filipelamego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelamego&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Skills
 
