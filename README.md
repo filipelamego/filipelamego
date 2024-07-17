@@ -32,6 +32,8 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="">
+<img alt="GitHub tag status" src="https://img.shields.io/github/checks-status/:user/:repo/:tag">
+
 
 <div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
 
