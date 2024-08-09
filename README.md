@@ -32,6 +32,8 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+alt="">
 
 
 <div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
