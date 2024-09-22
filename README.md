@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <!-- Texto -->
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Bloco de texto -->
+  <div style="width: 50%;">
     <h2 align="left">Hello World! 👋</h2>
     <p>
       My name is Filipe, and I'm a student of Systems Analysis and Development at 
@@ -10,6 +10,12 @@
     </p>
   </div>
   
+  <!-- Bloco da imagem -->
+  <div style="width: 50%; text-align: center;">
+    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
+ 
   <!-- Imagem -->
   <div style="flex: 1; text-align: right;">
     <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="max-width: 100%; height: auto;" />
