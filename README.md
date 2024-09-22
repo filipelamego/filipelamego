@@ -50,7 +50,7 @@ alt="">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
 </a>
 <a href="mailto:filipeslamego@gmail.com"><!-- E-mail contact -->
-    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Mail.ru&logoColor=white"
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"
     alt="">
 </a>
 <a href="https://www.linkedin.com/in/filipe-lamego-93257b32/"><!-- Linkedin contact -->
