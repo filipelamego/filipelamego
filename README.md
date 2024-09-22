@@ -7,7 +7,7 @@
     Currently, I'm focusing on improving my coding abilities and expanding my knowledge in web development and software engineering.
   </p>
 </div>
-<br><br>
+<br>
 <h2 align="left">GitHub 📊</h2>
 
 <div>
