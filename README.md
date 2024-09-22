@@ -1,5 +1,5 @@
 <!-- Bloco de texto -->
-<div> <p align="left"><h2> Hi there, I am Filipe Lamego 👋 
+<div> <p align="left"><h2> Hi there, I'm Filipe Lamego ✌ 
   <img align="right" alt="TBBT" height="215em" src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif"></h2>
     I'm a student of Systems Analysis and Development at 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
