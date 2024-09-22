@@ -1,7 +1,7 @@
 <!-- Bloco de texto -->
-<div> <p align="left"><h2> Hello World 👋 
+<div> <p align="left"><h2> Hi there, I am Filipe Lamego 👋 
   <img align="right" alt="TBBT" height="215em" src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif"></h2>
-    My name is Filipe, and I'm a student of Systems Analysis and Development at 
+    I'm a student of Systems Analysis and Development at 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
     I work with PHP and Laravel, and I'm also studying English to enhance my skills. <br>
     Currently, I'm focusing on improving my coding abilities and expanding my knowledge in web development and software engineering.
