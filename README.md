@@ -1,6 +1,7 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h2 align="left">Hello World! 👋 </h2>
+<div style="display: flex; align-items: center;">
+  <!-- Texto -->
+  <div style="flex: 1;">
+    <h2 align="left">Hello World! 👋</h2>
     <p>
       My name is Filipe, and I'm a student of Systems Analysis and Development at 
       <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
@@ -8,8 +9,10 @@
       Currently, I'm focusing on improving my coding abilities and expanding my knowledge in web development and software engineering.
     </p>
   </div>
-  <div style="flex: 1;">
-    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="width: 100%; max-height: 100%;" />
+  
+  <!-- Imagem -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="max-width: 100%; height: auto;" />
   </div>
 </div>
 
