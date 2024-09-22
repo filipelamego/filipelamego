@@ -15,12 +15,6 @@
     <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="max-width: 100%; height: auto;" />
   </div>
 </div>
- 
-  <!-- Imagem -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
 
 <h2 align="left">GitHub 📊</h2>
 
