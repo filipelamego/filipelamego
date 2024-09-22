@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
     <h2 align="left">Hello World! 👋 </h2>
     <p>
       My name is Filipe, and I'm a student of Systems Analysis and Development at 
@@ -9,7 +9,7 @@
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="width: 100%;" />
+    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="width: 100%; max-height: 100%;" />
   </div>
 </div>
 
