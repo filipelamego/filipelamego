@@ -1,11 +1,15 @@
-<div style="display: inline_block">
-  <h2 align="left">Hello World! 👋 
-    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" width="40" style="vertical-align: middle;" />
-  </h2><br>
-  My name is Filipe, and I'm a student of Systems Analysis and Development at [FATEC-SO](https://www.fatecsorocaba.edu.br/)<br>
-  I work with PHP and Laravel, and I'm also studying English to enhance my skills. <br>
-  Currently, I'm focusing on improving my coding abilities and expanding my knowledge in web development and software engineering.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h2 align="left">Hello World! 👋 </h2><br>
+    My name is Filipe, and I'm a student of Systems Analysis and Development at [FATEC-SO](https://www.fatecsorocaba.edu.br/)<br>
+    I work with PHP and Laravel, and I'm also studying English to enhance my skills. <br>
+    Currently, I'm focusing on improving my coding abilities and expanding my knowledge in web development and software engineering.
+  </div>
+  <div style="flex: 1;">
+    <img src="https://y.yarn.co/c417f6fb-63d3-42eb-8520-c13a260350b4_text.gif" style="width: 100%; max-height: 100%;" />
+  </div>
 </div>
+
 
 <h2 align="left">GitHub 📊</h2>
 
