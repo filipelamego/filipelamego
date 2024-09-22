@@ -42,7 +42,7 @@ alt="">
 alt="">
 
 
-<div style="display: inline_block"><h2 align="left">Contatos 🌎</h2>
+<div style="display: inline_block"><h2 align="left">Contact Information 🌎</h2>
 
 <a href="https://wa.me/5515998305283"><!-- WhatsApp contact -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
