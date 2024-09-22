@@ -5,8 +5,8 @@
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
     I work with PHP and Laravel, and I'm also studying English<br> 
     to enhance my skills.
-    Currently, I'm focusing on improving my coding abilities and <br>
-    expanding my knowledge in web development and software engineering.
+    Currently, I'm focusing on improving my coding abilities and
+    expanding my knowledge <br>in web development and software engineering.
   </p>
 </div>
 <br>
