@@ -1,6 +1,6 @@
 <!-- Bloco de texto -->
 <div> <p align="left"><h2> Hi there, I'm Filipe Lamego ✌ 
-  <img align="right" alt="TBBT" height="200em" src="https://i.pinimg.com/originals/47/5f/01/475f0154c049721e4b4ef126749e7aac.gif"></h2>
+  <img align="right" alt="TBBT" height="200em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgfxjVimINLbXcSTUppkw03cAP4mEUqLG-g&s"></h2>
     I'm a student of Systems Analysis and Development at 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
     I work with PHP and Laravel, and I'm also studying English<br> 
