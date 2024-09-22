@@ -1,11 +1,10 @@
 <!-- Bloco de texto -->
 <div> <p align="left"><h2> Hi there, I'm Filipe Lamego ✌ 
-  <img align="right" alt="TBBT" height="200em" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif"></h2>
-    I'm a student of Systems Analysis and Development at 
+  <img align="right" alt="TBBT" height="200em" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif"></h2></p>
+   <p style="text-align: justify;">I'm a student of Systems Analysis and Development at 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
     I work with PHP and Laravel, and I'm also studying English<br> 
-    to enhance my skills.
-    Currently, I'm focusing on improving my coding abilities and
+    to enhance my skills. Currently, I'm focusing on improving my coding abilities and
     expanding my knowledge <br>in web development and software engineering.
   </p>
 </div>
