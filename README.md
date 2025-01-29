@@ -1,11 +1,11 @@
 <!-- Bloco de texto -->
-<div> <p align="left" style="magin-right: 15px"><h2> Hi there, I'm Filipe Lamego ✌</p>
+<div> <p align="left" style="magin-right: 15px"><h2> Olá, eu sou Filipe Lamego ✌</p>
   <img align="right" alt="TBBT" height="200em" style="margin-left: 15px" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif"></h2>
-   <p style="text-align: justify;">I'm a student of Systems Analysis and Development at 
+   <p style="text-align: justify;">Sou estudante de Análise e Desenvolvimento de Sistemas na 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
-    I work with PHP and Laravel, and I'm also studying English<br> 
-    to enhance my skills. Currently, I'm focusing on improving my coding abilities and
-    expanding my knowledge in web development<br> and software engineering.
+    Trabalho com PHP, HTML, CSS, JavaScript e o framework Laravel, além de estar estudando inglês para aprimorar minhas habilidades. Atualmente,  
+    foco no aprimoramento das minhas competências em programação e na expansão do meu conhecimento em desenvolvimento web e Engenharia de Software.
+Também possuo experiência com bancos de dados e linguagem SQL, além de conhecimentos em Docker e controle de versão.
   </p>
 </div>
 <br>
@@ -43,7 +43,7 @@ alt="">
 alt="">
 
 
-<div style="display: inline_block"><h2 align="left">Contact Information 🌎</h2>
+<div style="display: inline_block"><h2 align="left">Informações de Contato 🌎</h2>
 
 <a href="https://wa.me/5515998305283"><!-- WhatsApp contact -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
