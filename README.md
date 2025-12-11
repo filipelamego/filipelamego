@@ -1,7 +1,7 @@
 <!-- Bloco de texto -->
 <div> <p align="left" style="magin-right: 15px"><h2> Olá, eu sou Filipe Lamego ✌</p>
   <img align="right" alt="TBBT" height="200em" style="margin-left: 15px" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif"></h2>
-   <p style="text-align: justify;">Sou estudante de Análise e Desenvolvimento de Sistemas na 
+   <p style="text-align: justify;">Formado em Análise e Desenvolvimento de Sistemas na 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
     Trabalho com PHP, HTML, CSS, JavaScript e o framework Laravel, além de estar estudando inglês para aprimorar minhas habilidades. Atualmente,  
     foco no aprimoramento das minhas competências em programação e na expansão do meu conhecimento em desenvolvimento web e Engenharia de Software.
