@@ -15,9 +15,9 @@ Conhecimentos em Linux, redes e nuvem (AWS/GCP), com foco em código limpo, boas
 
 <div>
   <a href="https://github.com/filipelamego">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=filipelamego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=filipelamego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelamego&layout=compact&langs_count=7&theme=dracula&v=1"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=filipelamego&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div><h2 align="left">Skills 🔥</h2>
