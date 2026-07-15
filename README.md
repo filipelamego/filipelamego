@@ -2,10 +2,12 @@
 <div> <p align="left" style="magin-right: 15px"><h2> Olá, eu sou Filipe Lamego ✌</p>
   <img align="right" alt="TBBT" height="200em" style="margin-left: 15px" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif"></h2>
    <p style="text-align: justify;">Formado em Análise e Desenvolvimento de Sistemas na 
-    <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a>. <br>
-    Trabalho com PHP, HTML, CSS, JavaScript e o framework Laravel, além de estar estudando inglês para aprimorar minhas habilidades. Atualmente,  
-    foco no aprimoramento das minhas competências em programação e na expansão do meu conhecimento em desenvolvimento web e Engenharia de Software.
-Também possuo experiência com bancos de dados e linguagem SQL, além de conhecimentos em Docker e controle de versão.
+    <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a> (2025). <br>
+    Desenvolvedor back-end com mais de 2 anos de experiência construindo e mantendo sistemas web sob demanda em PHP 8+ e Laravel para clientes
+de diferentes setores (telefonia, esquadrias, cobrança e setor público). Experiência prática em desenvolvimento e documentação de APIs RESTful (Swagger),
+modelagem e otimização de bancos MySQL, refatoração de código legado e automações de comunicação em tempo real via WhatsApp com Node.js. 
+Conhecimentos em Linux, redes e nuvem (AWS/GCP), com foco em código limpo, boas práticas e escalabilidade.
+
   </p>
 </div>
 <br>
