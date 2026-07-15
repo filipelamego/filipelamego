@@ -1,7 +1,6 @@
 <!-- Bloco de texto -->
 <div> 
   <p align="left" style="margin-right: 15px"><h2> Olá, eu sou Filipe Lamego ✌</h2></p>
-  <img align="right" alt="TBBT" height="200em" style="margin-left: 15px" src="https://media.tumblr.com/tumblr_maeo7b6r271rolf4z.gif">
   <p style="text-align: justify;">Formado em Análise e Desenvolvimento de Sistemas na 
     <a href="https://www.fatecsorocaba.edu.br/">FATEC-SO</a> (2025). <br>
     Desenvolvedor back-end com mais de 2 anos de experiência construindo e mantendo sistemas web sob demanda em PHP 8+ e Laravel para clientes
